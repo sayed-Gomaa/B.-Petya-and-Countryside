@@ -1,3 +1,3 @@
 # B.-Petya-and-Countryside
-problem solve
+ https://codeforces.com/contest/66/problem/B
 
